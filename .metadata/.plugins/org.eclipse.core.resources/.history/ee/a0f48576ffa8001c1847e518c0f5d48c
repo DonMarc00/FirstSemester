@@ -1,0 +1,19 @@
+package task2;
+
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
+
+public class TermWindow {
+
+	public TermWindow() {
+
+	}
+
+}
+
+class CKeyListener extends KeyAdapter {
+
+	public void vovelDisplay(KeyEvent e) {
+	int input = e.getKeyCode();
+	}
+}
