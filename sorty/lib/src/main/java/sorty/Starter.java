@@ -13,8 +13,10 @@ public class Starter {
 
 //        SortAlgorithm bubbleSort = new BubbleSort();
 //        bubbleSort.sort(data);
-        SortAlgorithm mergeSort = new MergeSortV2();
-        mergeSort.sort(data);
+//        SortAlgorithm mergeSort = new MergeSortV2();
+//        mergeSort.sort(data);
+        SortAlgorithm heapSort = new HeapSort();
+        heapSort.sort(data);
     }
 
 }

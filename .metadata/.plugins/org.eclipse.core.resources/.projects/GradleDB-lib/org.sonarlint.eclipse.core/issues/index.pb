@@ -11,3 +11,5 @@ U
 %src/main/java/databases/TrapCard.java,8\a\8aeab842dfadd0e0451801032aa74f6e162570ce
 X
 (src/main/java/databases/DataManager.java,6\e\6e93cb5bed55171e5d8bb4f555cf27c161247728
+V
+&src/main/java/databases/MagicCard.java,7\b\7b90931e53629167a4b6d234b6e5f356ce24f9f3

@@ -1,36 +1,36 @@
 
+j	java:S106¤"9Replace this use of System.out or System.err by a logger.(Î¹ĞõÿÿÿÿÿH©RMAJORZ
+CODE_SMELL
+c
+java:S1135—"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHªRINFOZ
+CODE_SMELL
 b
-java:S1135="2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHôRINFOZ
+java:S1135="2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH«RINFOZ
 CODE_SMELL
-i	java:S106@"9Replace this use of System.out or System.err by a logger.(‹„ôœúÿÿÿÿHõRMAJORZ
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(€¥­éÿÿÿÿÿH¬RMAJORZ
+CODE_SMELL
+e	java:S106£"9Replace this use of System.out or System.err by a logger.(»™»àH­RMAJORZ
+CODE_SMELL
+j	java:S106¢"9Replace this use of System.out or System.err by a logger.(¯ˆ‡ÆùÿÿÿÿH®RMAJORZ
+CODE_SMELL
+j	java:S106¥"9Replace this use of System.out or System.err by a logger.(€ÊúĞÿÿÿÿÿH¯RMAJORZ
 CODE_SMELL
 c
-java:S1135†"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHöRINFOZ
+java:S1135†"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH°RINFOZ
 CODE_SMELL
-c
-java:S1135—"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH÷RINFOZ
+j	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ŒÃ±ÏüÿÿÿÿH±RMAJORZ
 CODE_SMELL
-j	java:S106™"9Replace this use of System.out or System.err by a logger.(‚ì“êÿÿÿÿÿHøRMAJORZ
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(‹„ôœúÿÿÿÿH²RMAJORZ
 CODE_SMELL
-e	java:S106"9Replace this use of System.out or System.err by a logger.( ãõöHùRMAJORZ
+e	java:S106"9Replace this use of System.out or System.err by a logger.( ãõöH³RMAJORZ
 CODE_SMELL
-j	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ŒÃ±ÏüÿÿÿÿHúRMAJORZ
+j	java:S106¡"9Replace this use of System.out or System.err by a logger.(ËúİüÿÿÿÿH´RMAJORZ
 CODE_SMELL
-j	java:S106 "9Replace this use of System.out or System.err by a logger.(€¥­éÿÿÿÿÿHûRMAJORZ
-CODE_SMELL
-j	java:S106¡"9Replace this use of System.out or System.err by a logger.(ËúİüÿÿÿÿHüRMAJORZ
-CODE_SMELL
-j	java:S106¢"9Replace this use of System.out or System.err by a logger.(¯ˆ‡ÆùÿÿÿÿHıRMAJORZ
-CODE_SMELL
-e	java:S106£"9Replace this use of System.out or System.err by a logger.(»™»àHşRMAJORZ
-CODE_SMELL
-j	java:S106¤"9Replace this use of System.out or System.err by a logger.(Î¹ĞõÿÿÿÿÿHÿRMAJORZ
-CODE_SMELL
-j	java:S106¥"9Replace this use of System.out or System.err by a logger.(€ÊúĞÿÿÿÿÿH€RMAJORZ
-CODE_SMELL
-j	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ñ²²¿üÿÿÿÿHRMAJORZ
-CODE_SMELL
-j	java:S106§"9Replace this use of System.out or System.err by a logger.(›Š¥ôûÿÿÿÿH‚RMAJORZ
+j	java:S106§"9Replace this use of System.out or System.err by a logger.(›Š¥ôûÿÿÿÿHµRMAJORZ
 CODE_SMELL
 h
-java:S2259€"BA "NullPointerException" could be thrown; "card" is nullable here.(ĞÅ†ãHƒRMAJORZBUG
+java:S2259€"BA "NullPointerException" could be thrown; "card" is nullable here.(ĞÅ†ãH¶RMAJORZBUG
+j	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ñ²²¿üÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+j	java:S106™"9Replace this use of System.out or System.err by a logger.(‚ì“êÿÿÿÿÿHºRMAJORZ
+CODE_SMELL

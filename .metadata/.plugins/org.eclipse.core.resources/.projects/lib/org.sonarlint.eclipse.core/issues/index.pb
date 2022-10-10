@@ -4,8 +4,6 @@ P
 O
 src/main/java/task1/CPanel.java,a\2\a2368b9649a8f1209cd8674df2aad0f4ddc46bfe
 P
- src/main/java/task2/CWindow.java,5\0\50d915c239c0e38a003f4f9d92e7f410cb33d95a
-P
  src/main/java/task2/Starter.java,9\8\9809b4d1ad8b8836bd93e633ed694e3cc2faa276
 O
 src/main/java/task1/CLabel.java,b\a\bad0d78c15ac5479f40b0c828863cc5183a67ef9
@@ -13,3 +11,25 @@ S
 #src/main/java/task2/TermWindow.java,2\b\2b969639a62e77aa9b6216a12c6f5516c1cd5f2b
 P
  src/main/java/task1/CWindow.java,d\6\d6732806c6739203f53e3e83a923b7475b2db6d7
+W
+'src/main/java/task3/FlowLayoutTest.java,d\a\daed803df7a9a90acb89c684215bdbcc2ee43b95
+Y
+)src/main/java/task3/BorderLayoutTest.java,c\b\cba8cbbd1cd870873f65115ec8bf08805597bc14
+W
+'src/main/java/task3/GridLayoutTest.java,1\9\1958ff4c1888a3d960eb83ecb8e1da70de08514e
+S
+#src/main/java/task4/testButton.java,9\a\9a562e9e0832ecb290dc03b5edf429cb1dffc6aa
+P
+ src/main/java/task7/CButton.java,c\3\c3ffedf79a815c4441e2d210c991bd82d6168516
+S
+#src/main/java/bmitask/BMI_test.java,2\f\2f03f7039de9fff94ad127c7b330d68f136131d8
+O
+src/main/java/task7/Window.java,5\a\5afb78e8dd74a7c78c98f49a9571eb77f66c0853
+P
+ src/main/java/task7/Starter.java,3\4\34fd8c82292731b7b9e44692f14fb0e26d37c869
+Q
+!src/main/java/bmitask/Person.java,6\3\63a94591e6ef449ecf0073e8b6c4f7cc79dac778
+R
+"src/main/java/task6/CCProject.java,4\b\4b26f9c67223076f89d412c38489c7964fc210db
+X
+(src/test/java/task5/UnitProjectTest.java,b\2\b298b0e8a35ed63e4e782998d1bee097d2cfaf13

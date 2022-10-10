@@ -1,10 +1,10 @@
 
 V
-java:S1197#"*Move the array designators [] to the type.(üœÓ†HìRMINORZ
-CODE_SMELL
-b
-java:S1135M"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHïRINFOZ
+java:S1197#"*Move the array designators [] to the type.(üœÓ†HÓRMINORZ
 CODE_SMELL
 @
-java:S1700"Rename field "table"(’á¶“HğRMAJORZ
+java:S1700"Rename field "table"(’á¶“HÒRMAJORZ
+CODE_SMELL
+b
+java:S1135M"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÖRINFOZ
 CODE_SMELL
